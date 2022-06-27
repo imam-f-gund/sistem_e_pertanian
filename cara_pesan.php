@@ -15,7 +15,6 @@ include 'db/database.php';
 
     <!-- Page Heading -->
     
-
     <!-- DataTales Example -->
     <div class="card shadow mt-4 bgtotal">
 
