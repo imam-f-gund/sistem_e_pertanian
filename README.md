@@ -1,7 +1,7 @@
 # sistem e-commerce sederhana hasil pertanian
 
 
-## Examole
+## Example
 <p align="center"><a href="#" target="_blank"><img src="https://github.com/imam-f-gund/sistem_e_pertanian/blob/master/ss/1.png" width="400"></a></p>
 
 <p align="center"><a href="#" target="_blank"><img src="https://github.com/imam-f-gund/sistem_e_pertanian/blob/master/ss/2.png" width="400"></a></p>
